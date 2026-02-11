@@ -1,4 +1,4 @@
-# weekly-sales-Dataset-Time-series-forecasting-Retail-project
+# weekly-sales-Dataset-Time-series-forecasting-Retail Supply Chain problem-project
 This project focuses on forecasting weekly sales by leveraging statistical analysis and machine learning. The goal was to move from baseline regression models to sophisticated time-series architectures capable of capturing complex seasonality and trend patterns.
 
 Methodology & Technical Workflow
